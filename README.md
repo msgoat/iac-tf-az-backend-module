@@ -12,6 +12,10 @@ All Terraform state is persisted in an Azure Storage account with the following 
 All resources allocated by this Terraform module are owned by a dedicated resource group
 created by this module.
 
+Originally developed for msg's `Cloud Training Program` and `Cloud Expert Program`.
+
+> Still work in progress! Provided AS IS without any warranties!
+
 ## Input Variables
 
 see [variables.tf](variables.tf)
