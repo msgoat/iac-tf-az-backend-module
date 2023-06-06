@@ -1,5 +1,7 @@
 # remote-state/backend
 
+> __@deprecated__ please use git repo [iac-tf-az-cloudtrain-modules](https://github.com/msgoat/iac-tf-az-cloudtrain-modules) instead!
+
 Creates all Azure resources to manage Terraform state remotely.
 
 All Terraform state is persisted in an Azure Storage account with the following capabilities:
